@@ -35,12 +35,10 @@
 
 ---
 
-### ⚒️ Languages & Tools
+### ⚒️ Languages-Frameworks-Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cs,html,css,javascript,nodejs,react,matlab,firebase,supabase,mongodb,azure,git,github,vscode,visualstudio" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postman,express,vercel,anaconda" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cs,html,css,javascript,nodejs,npm,react,matlab,firebase,supabase,mongodb,azure,git,github,vscode,visualstudio,notion,mysql,dotnet,postman,express,vercel,anaconda" />
 </div>
 
 ---
