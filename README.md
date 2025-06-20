@@ -6,7 +6,11 @@
 
 <h3 align="center">
 🎓 Honours Student in Computer Science & IT at North-West University  
+</h3>
+<h3 align="center">
 🛠️ Software Engineer 
+</h3>
+<h3 align="center">
 🌍 Based in South Africa
 </h3>
 
