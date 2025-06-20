@@ -8,7 +8,7 @@
 🎓 BSc Honours Candidate in Computer Science and Information Technology at North-West University  
 </h3>
 <h3 align="center">
-🛠️ Software Engineer 
+🛠️ Aspiring Software Engineer 
 </h3>
 <h3 align="center">
 🌍 Based in South Africa
