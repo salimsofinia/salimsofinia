@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-🎓 Honours Student in Computer Science & IT at North-West University  
+🎓 BSc Honours Candidate in Computer Science and Information Technology at North-West University  
 </h3>
 <h3 align="center">
 🛠️ Software Engineer 
