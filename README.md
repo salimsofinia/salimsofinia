@@ -45,9 +45,9 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimsofinia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimsofinia&layout=compact&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
 </div>
 
 ---
