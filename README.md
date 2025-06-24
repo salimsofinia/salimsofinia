@@ -68,3 +68,10 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salimsofinia/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
+</p>
+
