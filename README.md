@@ -34,7 +34,13 @@
   <img src="https://cdn-icons-png.flaticon.com/512/8236/8236560.png" width="40" style="border-radius: 8px;" />
 </a>
   <a href="https://your-cv-link.com" title="View CV">
-  <img src="https://cdn-icons-png.flaticon.com/512/8236/8236560.png" width="40" style="border-radius: 8px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/8236/7798332.png" width="40" style="border-radius: 8px;" />
+</a>
+  <a href="https://your-cv-link.com" title="View CV">
+  <img src="https://cdn-icons-png.flaticon.com/512/8236/281089.png" width="40" style="border-radius: 8px;" />
+</a>
+  <a href="https://your-cv-link.com" title="View CV">
+  <img src="https://cdn-icons-png.flaticon.com/512/8236/10856864.png" width="40" style="border-radius: 8px;" />
 </a>
 </div>
 
