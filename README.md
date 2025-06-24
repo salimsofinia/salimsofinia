@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/salimsofinia"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/salimsofinia"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://your-cv-link.com" title="View Portfolio">
-    <img src="https://cdn-icons-png.flaticon.com/512/8236/8236560.png" width="45" style="border-radius: 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/8236/8236560.png" width="47" style="border-radius: 10px;" />
   </a>
 </div>
 
