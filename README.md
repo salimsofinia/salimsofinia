@@ -30,13 +30,8 @@
   <a href="mailto:salimsofinia01719@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/salimsofinia"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/salimsofinia"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://salimsofinia.dev"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-  <a href="https://salimsofinia.dev"><img src="https://skillicons.dev/icons?i=webflow" /></a>
-  <a href="https://salimsofinia.dev">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-</a>
-  <a href="https://salimsofinia.dev">
-  <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" width="40" style="border-radius: 8px;" />
+  <a href="https://your-cv-link.com" title="View CV">
+  <img src="https://cdn-icons-png.flaticon.com/512/8236/8236560.png" width="40" style="border-radius: 8px;" />
 </a>
   <a href="https://your-cv-link.com" title="View CV">
   <img src="https://cdn-icons-png.flaticon.com/512/8236/8236560.png" width="40" style="border-radius: 8px;" />
