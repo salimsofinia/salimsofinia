@@ -47,15 +47,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimsofinia&layout=compact&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=gruvbox" />
   <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
   <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=monokai" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=monokai&hide_border=true&border_radius=10" />
   <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=algolia" />
-  <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=dark_dimmed" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=algolia&hide_border=true&border_radius=10" />
   <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=solarized-light" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=solarized-light&hide_border=true&border_radius=10" />
 </div>
 
 ---
