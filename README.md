@@ -30,7 +30,14 @@
   <a href="mailto:salimsofinia01719@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/salimsofinia"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/salimsofinia"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://salimsofinia.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>
+  <a href="https://salimsofinia.dev"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="https://salimsofinia.dev"><img src="https://skillicons.dev/icons?i=webflow" /></a>
+  <a href="https://salimsofinia.dev">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+</a>
+  <a href="https://salimsofinia.dev">
+  <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" width="40" style="border-radius: 8px;" />
+</a>
 </div>
 
 ---
