@@ -45,7 +45,7 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimsofinia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&card_width=700" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimsofinia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&card_width=600" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="600" />
 </div>
@@ -55,7 +55,7 @@
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salimsofinia&theme=radical&margin-w=5&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salimsofinia&theme=tokyonight&margin-w=5&no-frame=true" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ### Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
