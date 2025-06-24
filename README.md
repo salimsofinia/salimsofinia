@@ -71,4 +71,5 @@
 
 ---
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=salimsofinia&theme=tokyo-night" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=salimsofinia&theme=radical" />
+
