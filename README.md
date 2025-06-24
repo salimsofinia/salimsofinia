@@ -30,24 +30,8 @@
   <a href="mailto:salimsofinia01719@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/salimsofinia"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/salimsofinia"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <!-- Icon: Profile -->
-  <a href="https://your-cv-link.com" title="View CV">
-    <img src="https://cdn-icons-png.flaticon.com/512/8236/8236560.png" width="40" style="border-radius: 8px;" />
-  </a>
-
-  <!-- Icon: Resume -->
-  <a href="https://your-cv-link.com" title="View CV">
-    <img src="https://cdn-icons-png.flaticon.com/512/7798/7798332.png" width="40" style="border-radius: 8px;" />
-  </a>
-
-  <!-- Icon: Portfolio 1 -->
   <a href="https://your-cv-link.com" title="View Portfolio">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281089.png" width="40" style="border-radius: 8px;" />
-  </a>
-
-  <!-- Icon: Portfolio 2 -->
-  <a href="https://your-cv-link.com" title="View Portfolio">
-    <img src="https://cdn-icons-png.flaticon.com/512/10856/10856864.png" width="40" style="border-radius: 8px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/8236/8236560.png" width="50" style="border-radius: 10px;" />
   </a>
 </div>
 
