@@ -8,24 +8,23 @@
 🎓 BSc Honours Candidate in Computer Science and Information Technology at North-West University  
 </h3>
 <h3 align="center">
-🛠️ Aspiring Software Engineer 
+💻 Aspiring Software Engineer 
 </h3>
 <h3 align="center">
-🌍 Based in South Africa
+📍 Based in South Africa
 </h3>
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🔭 Currently working on: **A web-based app to assess first-year programming competency**
-- 📚 Academic Research Focus: **Digital literacy & programming assessment in higher education**
-- 🧑‍🏫 Assistant to lecturers for **System Analysis & Design** and **User Interface Programming**
-- 👨‍💻 Enjoys full-stack development, security, data analysis, and technical documentation
-- 💬 Languages: **English**
-- 🎓 BSc IT (Distinction) | 📍 NWU
+- Currently working on: **A web-based application to assess digital literacy of first-years**
+- Academic Research Focus: **Assessing the Digital Literacy of First-Year University Students**
+- Full-stack development, security, data analysis and management
+- Languages: **English**
+- BSc IT (_Cum Laude_) @ NWU
 
-### 💼 Contact Me
+### Contact Me
 
 <div align="center">
   <a href="mailto:salimsofinia01719@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -35,7 +34,7 @@
 
 ---
 
-### ⚒️ Languages-Frameworks-Tools
+### Languages-Frameworks-Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cs,html,css,javascript,nodejs,npm,react,matlab,firebase,supabase,mongodb,azure,git,github,vscode,visualstudio,notion,mysql,dotnet,postman,express,vercel,anaconda" />
@@ -43,7 +42,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimsofinia&layout=compact&theme=radical" />
@@ -53,7 +52,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=salimsofinia&theme=radical&margin-w=5&no-frame=true" />
@@ -61,7 +60,7 @@
 
 ---
 
-### ✍️ Dev Quote
+### Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -69,9 +68,3 @@
 
 ---
 
-### 🔍 Currently Exploring
-
-- 🔐 Secure API design using JWT and role-based authentication
-- 🧪 Data streaming pipelines with **Azure Event Hubs & Power BI**
-- 🤖 Machine learning models for educational analytics
-- 📈 Research writing with Harvard-style referencing
