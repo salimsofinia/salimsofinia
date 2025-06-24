@@ -38,6 +38,9 @@
   <a href="https://salimsofinia.dev">
   <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" width="40" style="border-radius: 8px;" />
 </a>
+  <a href="https://your-cv-link.com">
+  <img src="https://skillicons.dev/icons?i=readme" />
+</a>
 </div>
 
 ---
