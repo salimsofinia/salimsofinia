@@ -45,12 +45,9 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimsofinia&layout=compact&theme=radical&card_width=500" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimsofinia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&card_width=500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimsofinia&show_icons=true&theme=solarized-light&hide_border=true&border_radius=10&card_width=500" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img src="https://github-readme-stats.vercel.app/api?username=salimsofinia&show_icons=true&theme=solarized-light&hide_border=true&border_radius=10" />
 </div>
 
 ---
