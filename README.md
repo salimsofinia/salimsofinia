@@ -37,7 +37,7 @@
 
   <!-- Icon: Resume -->
   <a href="https://your-cv-link.com" title="View CV">
-    <img src="https://cdn-icons-png.flaticon.com/512/8236/7798332.png" width="40" style="border-radius: 8px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/7798/7798332.png" width="40" style="border-radius: 8px;" />
   </a>
 
   <!-- Icon: Portfolio 1 -->
