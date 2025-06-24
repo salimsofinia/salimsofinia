@@ -38,10 +38,9 @@
   <a href="https://salimsofinia.dev">
   <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" width="40" style="border-radius: 8px;" />
 </a>
-  <a href="https://your-cv-link.com">
-  <img src="https://www.flaticon.com/free-icon/profile_8236560?term=portfolio&page=1&position=86&origin=search&related_id=8236560" width="40" style="border-radius: 8px;" />
+  <a href="https://your-cv-link.com" title="View CV">
+  <img src="https://cdn-icons-png.flaticon.com/512/8236/8236560.png" width="40" style="border-radius: 8px;" />
 </a>
-
 </div>
 
 ---
