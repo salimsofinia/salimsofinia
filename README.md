@@ -27,8 +27,8 @@
 ### My Links
 
 <div align="center">
-  <a href="mailto:salimsofinia01719@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/salimsofinia"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:salimsofinia01719@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://your-cv-link.com" title="View Portfolio">
     <img src="https://cdn-icons-png.flaticon.com/512/8236/8236560.png" width="47" style="border-radius: 10px;" />
   </a>
