@@ -62,7 +62,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salimsofinia/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
-</p>
+![snake gif](https://github.com/salimsofinia/salimsofinia/blob/output/github-contribution-grid-snake.svg)
 
