@@ -62,5 +62,9 @@
 
 ---
 
-![snake gif](https://github.com/salimsofinia/salimsofinia/blob/output/github-contribution-grid-snake.svg)
+### Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/salimsofinia/salimsofinia/raw/output/github-contribution-grid-snake.svg?color_snake=%23009100" />
+</p>
 
